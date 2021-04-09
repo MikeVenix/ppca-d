@@ -1,1 +1,3 @@
-PPCA-Demo
+This is a toned down skeletal Demo of PPC Assist, a laravel webserver tool that performed recursive checks on dozens of google ad words clients through the Google Ads API, it would automatically record when a budget for a campaign is reached, pause that campaign (resuming it at midnight), record a set of data from that campaign and display it, it would also go on to be used to check that landing URL's from ad campaigns were up and functional, and to check that keywords used in that campaign adhered to standard requirements set fourth by the tool creator.
+
+Unfortunatley the project came to an end in some financial difficulty before proper optimization and furhter streamlining could be done, leaving it capable, but lacking in fine detail.

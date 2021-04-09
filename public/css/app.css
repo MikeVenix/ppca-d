@@ -1,0 +1,17 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.link {
+    color: #DF253D;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+}
+
+table{
+    text-align: center;
+}
